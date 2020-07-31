@@ -78,8 +78,9 @@ SET_TARGET_PROPERTIES (hello_shared PROPERTIES VERSION 1.1 SOVERSION 1)
 
 ## 4、command
 use the following command to configure and generate:
-'''
-cd xx/to/path
-cd build
-cmake ..
+
+* cd xx/to/path
+* cd build
+* cmake ..
+
 
